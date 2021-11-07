@@ -1,4 +1,4 @@
-"""Use input() to read input from library and use print to write your output"""
+"""Use input() to read input from user and use print to write your output"""
 
 def main():
     try:
