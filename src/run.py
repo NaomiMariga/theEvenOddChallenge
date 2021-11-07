@@ -1,8 +1,4 @@
-''' Read input from STDIN. Print your output to STDOUT '''
-    #Use input() to read input from STDIN and use print to write your output to STDOUT
-
-import abc
-
+"""Use input() to read input from library and use print to write your output"""
 
 def main():
     try:
@@ -69,7 +65,7 @@ def main():
 main()
 
 
-
+# Challenge instructions 
 """
 Prime String (100 Marks)
 Oddia and Evenia are two friends who love strings and prime numbers. Although they have the same taste and like similar things, they are enemies when it comes to even and odd numbers. Oddia likes the odd numbers and Evenia likes the even numbers. They have a problem for you to solve.
