@@ -15,4 +15,4 @@
   1. Clone the repository
   2. Run the program in the terminal. Change directory to the program directory
   3. Assuming you have Python already installed run the below command
-      `py run.py` or `python run.py`
+      `py run.py`
